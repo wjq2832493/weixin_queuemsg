@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: WJQ
+Build-Jdk: 11.0.2
+Implementation-Title: weixin
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: wjq.weixin
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/weixin_queueMsg
+Created-By: Maven Integration for Eclipse
+
